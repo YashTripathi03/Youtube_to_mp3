@@ -7,4 +7,4 @@ pip install youtube_dl,
 pip install os-sys,
 pip install os-win,
 pip install ffmpeg-python,
-pip install ffprobe-python,
+pip install ffprobe-python
